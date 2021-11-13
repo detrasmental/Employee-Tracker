@@ -14,7 +14,7 @@ VALUES
 ("On Call", 25000, 4);
 
 
-INSERT INTO employees(first_name, last_name, manager_id, role_id)
+INSERT INTO employee (first_name, last_name, manager_id, role_id)
     VALUES
     ('Steve', 'Rogers', 1, 1)
     ('Tony', 'Stark', 1 , 2),
@@ -25,6 +25,6 @@ INSERT INTO employees(first_name, last_name, manager_id, role_id)
     ('Wanda', 'Maximoff', null, 7),
     ('Sam', 'Wilson', null, 8),
     ('Scott', 'Lang', null, 9),
-    ('James', 'Rhodes', null, 10),
+    ('James', 'Rhodes', null, 10)
 ;
 	
