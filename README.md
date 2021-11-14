@@ -37,6 +37,9 @@ To use this application, type **NPM START** in the terminal.
 
 ![employee-trackergif](https://user-images.githubusercontent.com/85942489/141694686-f853254c-f91a-4548-bab2-a236632619e0.gif)
 
+## Demo Video
+https://drive.google.com/file/d/1NUTz_azCAEBFxJyTgOxZgoa9S-0bxTG0/view
+
 ## Contribution
 This is homework for a class. Feel free to contact me with any suggestions to get better at this.
 
