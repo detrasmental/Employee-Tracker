@@ -2,12 +2,12 @@ const mysql = require('mysql')
 const inquirer = require('inquirer');
 require('console.table');
 
-
+// BE SURE TO UPDATE THE PASSWORD WITH YOUR OWN CREDENTIALS
 var connection = mysql.createConnection({
   host: "localhost",
   port: 3306,
   user: "root",
-  password: "malcolmelias081520",
+  password: "password",
   database: "employees"
 });
 
